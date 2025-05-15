@@ -5,4 +5,10 @@ public class FirstTest {
     public void firstTest(){
 
     }
+    @Test
+   public void secondTest(){
+        System.out.println("It's second test");
+
+    }
+
 }
